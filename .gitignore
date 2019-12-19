@@ -1,3 +1,4 @@
 .env
 .vscode/
 blog/article/migrations/
+blog/blog/db.sqlite3
